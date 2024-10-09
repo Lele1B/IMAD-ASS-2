@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="HungryEditTxt" type="id">HungryText</item>
+    <item name="CleanEditTxt" type="id">CleanText</item>
+    <item name="HealthEditTxt" type="id">HealthText</item>
+</resources>
